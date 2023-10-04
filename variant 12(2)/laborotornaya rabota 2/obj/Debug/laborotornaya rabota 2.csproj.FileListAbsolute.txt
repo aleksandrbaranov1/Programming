@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\obj\Debug\laborotornaya rabota 2.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\obj\Debug\laborotornaya rabota 2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\bin\Debug\laborotornaya rabota 2.exe
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\bin\Debug\laborotornaya rabota 2.pdb
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\obj\Debug\laborotornaya rabota 2.exe
+C:\Users\student\source\repos\variant 12(2)\laborotornaya rabota 2\obj\Debug\laborotornaya rabota 2.pdb
