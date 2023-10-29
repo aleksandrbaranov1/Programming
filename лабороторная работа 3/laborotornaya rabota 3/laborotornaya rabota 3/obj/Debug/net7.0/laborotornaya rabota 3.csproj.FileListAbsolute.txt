@@ -1,0 +1,15 @@
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.csproj.AssemblyReference.cache
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.AssemblyInfoInputs.cache
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.AssemblyInfo.cs
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.csproj.CoreCompileInputs.cache
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/bin/Debug/net7.0/laborotornaya rabota 3
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/bin/Debug/net7.0/laborotornaya rabota 3.deps.json
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/bin/Debug/net7.0/laborotornaya rabota 3.runtimeconfig.json
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/bin/Debug/net7.0/laborotornaya rabota 3.dll
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/bin/Debug/net7.0/laborotornaya rabota 3.pdb
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.dll
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/refint/laborotornaya rabota 3.dll
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.pdb
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/laborotornaya rabota 3.genruntimeconfig.cache
+/Users/vitagoeckin/Desktop/лабороторная работа 3/laborotornaya rabota 3/laborotornaya rabota 3/obj/Debug/net7.0/ref/laborotornaya rabota 3.dll
