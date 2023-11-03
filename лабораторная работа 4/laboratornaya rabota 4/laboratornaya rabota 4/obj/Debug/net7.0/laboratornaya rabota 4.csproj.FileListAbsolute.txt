@@ -1,0 +1,15 @@
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/bin/Debug/net7.0/laboratornaya rabota 4
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/bin/Debug/net7.0/laboratornaya rabota 4.deps.json
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/bin/Debug/net7.0/laboratornaya rabota 4.runtimeconfig.json
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/bin/Debug/net7.0/laboratornaya rabota 4.dll
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/bin/Debug/net7.0/laboratornaya rabota 4.pdb
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.csproj.AssemblyReference.cache
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.AssemblyInfoInputs.cache
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.AssemblyInfo.cs
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.csproj.CoreCompileInputs.cache
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.dll
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/refint/laboratornaya rabota 4.dll
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.pdb
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/laboratornaya rabota 4.genruntimeconfig.cache
+/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 4/laboratornaya rabota 4/laboratornaya rabota 4/obj/Debug/net7.0/ref/laboratornaya rabota 4.dll

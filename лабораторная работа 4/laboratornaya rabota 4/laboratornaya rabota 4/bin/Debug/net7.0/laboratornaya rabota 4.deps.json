@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "laboratornaya rabota 4/1.0.0": {
+        "runtime": {
+          "laboratornaya rabota 4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratornaya rabota 4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
