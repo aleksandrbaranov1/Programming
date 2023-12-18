@@ -1,0 +1,15 @@
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.csproj.AssemblyReference.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.AssemblyInfoInputs.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.AssemblyInfo.cs
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.csproj.CoreCompileInputs.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/bin/Debug/net7.0/laboratornayaRabota8
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/bin/Debug/net7.0/laboratornayaRabota8.deps.json
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/bin/Debug/net7.0/laboratornayaRabota8.runtimeconfig.json
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/bin/Debug/net7.0/laboratornayaRabota8.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/bin/Debug/net7.0/laboratornayaRabota8.pdb
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/refint/laboratornayaRabota8.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.pdb
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/laboratornayaRabota8.genruntimeconfig.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota8/laboratornayaRabota8/obj/Debug/net7.0/ref/laboratornayaRabota8.dll
