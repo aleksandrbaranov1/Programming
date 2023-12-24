@@ -18,12 +18,11 @@ class Program
         flg4 = double.TryParse(Console.ReadLine().Replace(',', '.'), out a);
         if (flg1 && flg2 && flg3 && flg4)
         {
-            tmpb0 = b0;
             count = 0;
-            while (b0 < bx)
+            b = b0;
+            while (b < bx)
             {
                 count += 1;
-                b = b0;
                 flg1 = Math.Abs(Math.Cos(b)) >= eps;
                 if (flg1)
                 {
@@ -31,24 +30,24 @@ class Program
                     if (flg2)
                     {
                         l = (24.2 * Math.Cos(a * a) + Math.Sin(a + b)) / (Math.Pow((Math.Pow(Math.E, a) - (b * b * b) + Math.Tan(b0)), 1f / 3f));
-                        Console.WriteLine($"{count})При B = {b0} L(B) = {l}");
+                        Console.WriteLine($"{count})При B = {b} L(B) = {l}");
                     }
                     else
                     {
-                        Console.WriteLine($"{count})При B = {b0}, L(B) не сущетвует");
+                        Console.WriteLine($"{count})При B = {b}, L(B) не сущетвует");
                     }
                 }
                 else
                 {
-                    Console.WriteLine($"{count})При B = {b0}, L(B) не сущетвует");
+                    Console.WriteLine($"{count})При B = {b}, L(B) не сущетвует");
                 }
-                b0 += db;
+                b += db;
                 if (count % 20 == 0)
                 {
                     Console.ReadKey(true);
                 }
             }
-            Console.WriteLine($"График функции L(b) успешно построен в диапазоне от b0 = {tmpb0} до bx = {bx} с шагом db = {db}");
+            Console.WriteLine($"График функции L(b) успешно построен в диапазоне от b0 = {b0} до bx = {bx} с шагом db = {db}");
         }
         else
         {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/laboratornayaRabota6.csproj",
+      "projectUniqueName": "/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/laboratornayaRabota6.csproj",
       "projectName": "laboratornayaRabota6",
-      "projectPath": "/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/laboratornayaRabota6.csproj",
+      "projectPath": "/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/laboratornayaRabota6.csproj",
       "packagesPath": "/Users/vitagoeckin/.nuget/packages/",
-      "outputPath": "/Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/obj/",
+      "outputPath": "/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vitagoeckin/.nuget/NuGet/NuGet.Config"

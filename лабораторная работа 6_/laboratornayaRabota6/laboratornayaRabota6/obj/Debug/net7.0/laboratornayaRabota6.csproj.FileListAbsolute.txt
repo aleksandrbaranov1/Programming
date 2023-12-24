@@ -28,3 +28,18 @@
 /Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.pdb
 /Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.genruntimeconfig.cache
 /Users/vitagoeckin/Desktop/лабы по проге/лабораторная работа 6/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/ref/laboratornayaRabota6.dll
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/bin/Debug/net7.0/laboratornayaRabota6
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/bin/Debug/net7.0/laboratornayaRabota6.deps.json
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/bin/Debug/net7.0/laboratornayaRabota6.runtimeconfig.json
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/bin/Debug/net7.0/laboratornayaRabota6.dll
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/bin/Debug/net7.0/laboratornayaRabota6.pdb
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.csproj.AssemblyReference.cache
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.AssemblyInfoInputs.cache
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.AssemblyInfo.cs
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.csproj.CoreCompileInputs.cache
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.dll
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/refint/laboratornayaRabota6.dll
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.pdb
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/laboratornayaRabota6.genruntimeconfig.cache
+/Users/vitagoeckin/Programming2/лабораторная работа 6_/laboratornayaRabota6/laboratornayaRabota6/obj/Debug/net7.0/ref/laboratornayaRabota6.dll
