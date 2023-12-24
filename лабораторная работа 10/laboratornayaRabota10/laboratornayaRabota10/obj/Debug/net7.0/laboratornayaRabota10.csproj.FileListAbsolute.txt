@@ -1,0 +1,15 @@
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/bin/Debug/net7.0/laboratornayaRabota10
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/bin/Debug/net7.0/laboratornayaRabota10.deps.json
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/bin/Debug/net7.0/laboratornayaRabota10.runtimeconfig.json
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/bin/Debug/net7.0/laboratornayaRabota10.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/bin/Debug/net7.0/laboratornayaRabota10.pdb
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.csproj.AssemblyReference.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.AssemblyInfoInputs.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.AssemblyInfo.cs
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.csproj.CoreCompileInputs.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/refint/laboratornayaRabota10.dll
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.pdb
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/laboratornayaRabota10.genruntimeconfig.cache
+/Users/vitagoeckin/Projects/laboratornayaRabota10/laboratornayaRabota10/obj/Debug/net7.0/ref/laboratornayaRabota10.dll
