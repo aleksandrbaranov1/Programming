@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A5E6FD35-3EBC-4AFA-B64E-1EC7ECD17CE3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="laboratornayaRabota6/Program.cs">
+    <Files>
+      <File FileName="laboratornayaRabota6/Program.cs" Line="32" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="laboratornayaRabota6">
+            <Node name="laboratornayaRabota6">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="laboratornayaRabota6" expanded="True">
+            <Node name="laboratornayaRabota6" expanded="True">
+              <Node name="laboratornayaRabota6" expanded="True">
+                <Node name="laboratornayaRabota6.Program" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.laboratornayaRabota6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
